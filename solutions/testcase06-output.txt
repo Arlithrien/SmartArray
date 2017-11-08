@@ -1,0 +1,11 @@
+-> Created new SmartArray of size 10.
+
+At end of execution, getSize(mySmarty) = 2.
+At end of execution, getSize(NULL) = -1.
+
+Contents of mySmarty:
+word1
+word2
+
+Contents of NULL SmartArray:
+(empty array)
